@@ -42,6 +42,10 @@ li {
   border-radius: 10px;
   max-width: 600px;
 }
+a {
+  margin: 20px auto;
+  max-width: 600px;
+}
 
 .theweek {
   margin-top: 50px;
